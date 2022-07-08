@@ -1,0 +1,2 @@
+# TUBES_BasisData
+NIM : 202010370311092
